@@ -1,0 +1,21 @@
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).deps.json
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).runtimeconfig.json
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).runtimeconfig.dev.json
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).dll
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).pdb
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).csprojAssemblyReference.cache
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).csproj.CoreCompileInputs.cache
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).AssemblyInfoInputs.cache
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).AssemblyInfo.cs
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).dll
+C:\Users\el ninio\source\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).pdb
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).deps.json
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).runtimeconfig.json
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).runtimeconfig.dev.json
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).dll
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\bin\Debug\netcoreapp2.2\10.  Crossroads(exam).pdb
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).csprojAssemblyReference.cache
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).AssemblyInfoInputs.cache
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).AssemblyInfo.cs
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).dll
+D:\repos\Stack And Queue Exercise\10.  Crossroads(exam)\obj\Debug\netcoreapp2.2\10.  Crossroads(exam).pdb
