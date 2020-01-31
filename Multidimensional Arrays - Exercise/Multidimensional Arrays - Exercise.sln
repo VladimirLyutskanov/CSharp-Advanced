@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional Arrays - Exercise", "Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise.csproj", "{AE4345DB-6FF3-4FDA-A678-0AACCFD690B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{C1103EAE-8A14-4614-BBD0-045042A0D0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake Moves", "Snake Moves\Snake Moves.csproj", "{8BCAD740-5169-4C1A-8773-D93BDF1E67F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{FAA23D7B-AADA-49EC-80B9-18285CB3D68F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged Array", "Jagged Array\Jagged Array.csproj", "{DDF58FC6-DE9C-4D6F-97F1-0267A3BDAD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4345DB-6FF3-4FDA-A678-0AACCFD690B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4345DB-6FF3-4FDA-A678-0AACCFD690B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4345DB-6FF3-4FDA-A678-0AACCFD690B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4345DB-6FF3-4FDA-A678-0AACCFD690B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1103EAE-8A14-4614-BBD0-045042A0D0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1103EAE-8A14-4614-BBD0-045042A0D0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1103EAE-8A14-4614-BBD0-045042A0D0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1103EAE-8A14-4614-BBD0-045042A0D0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCAD740-5169-4C1A-8773-D93BDF1E67F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCAD740-5169-4C1A-8773-D93BDF1E67F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCAD740-5169-4C1A-8773-D93BDF1E67F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCAD740-5169-4C1A-8773-D93BDF1E67F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA23D7B-AADA-49EC-80B9-18285CB3D68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA23D7B-AADA-49EC-80B9-18285CB3D68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA23D7B-AADA-49EC-80B9-18285CB3D68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA23D7B-AADA-49EC-80B9-18285CB3D68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF58FC6-DE9C-4D6F-97F1-0267A3BDAD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF58FC6-DE9C-4D6F-97F1-0267A3BDAD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF58FC6-DE9C-4D6F-97F1-0267A3BDAD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF58FC6-DE9C-4D6F-97F1-0267A3BDAD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93D4C1B-F4B1-4904-9FA8-3B15DC65943D}
+	EndGlobalSection
+EndGlobal
